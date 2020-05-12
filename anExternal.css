@@ -1,0 +1,75 @@
+  #para1 {
+    font: 15px Arial, sans-serif;
+  }
+   
+  
+  #para2 {
+    font: italic;
+    color:blue;
+  }
+  
+  #thanos {
+    width: 50px;
+    height: 50px;
+  }
+
+  #ironman {
+    width: 50px;
+    height: 50px;
+  }
+
+  div.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 25px;
+  }
+
+img {width: 100%}
+
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+  
+  div.richmondbeach {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  div.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font: 18px bold 
+
+  }
+
+  div.pizza {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+
+  p.dotted {border-style: dotted;}
+
+  img.taco {
+    float: right;
+    width: 100px;
+    height: 108px;
+  }
+
+  p.taco {border-style: solid;}
+
+  img.icecream {
+    border-radius: 25px;
+    padding: 20px;
+    width: 112px;
+    height: 164px;
+
+  }
